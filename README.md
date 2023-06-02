@@ -1,2 +1,2 @@
-# stanford-code-in-space
+# stanford-code-in-place
 My solutions during Stanford's Code in Space studies are coming soon...
